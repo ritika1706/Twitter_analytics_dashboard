@@ -1,1 +1,1 @@
-# Twitter_analytics_dashboard
+This is my internship project focused on analyzing Twitter engagement data using Power BI. The goal was to develop interactive dashboards with time-based restrictions to visualize tweet performance metrics such as engagement rates, clicks, and media interactions. The project involved data cleaning, DAX calculations, and dynamic visualizations to provide actionable insights.
